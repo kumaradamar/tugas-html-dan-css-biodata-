@@ -1,0 +1,33 @@
+table,tr,td{
+background-color: #0b013b ;
+font-family: arial;
+font-size: 12px;
+color: #ffff;
+border: 0.5px solid aqua;
+padding: 5px;
+border-collapse: collapse;
+}
+.h{
+border: 8px #0b013b;
+padding: 20px;
+}
+header{
+	color = #ffff;
+	padding = "center";
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+body{
+background-image: url('482715.jpg');
+background-repeat: no-repeat;
+background-size:  100% auto;
+}
